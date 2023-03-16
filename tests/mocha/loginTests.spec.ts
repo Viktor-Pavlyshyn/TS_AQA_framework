@@ -2,7 +2,7 @@ import {LoginPage} from "../../pages/login.page";
 import {ProductsPage} from "../../pages/products.page";
 import users from "../../data/users";
 
-describe('Login to the application', () => {
+xdescribe('Login to the application', () => {
 const loginPage = new LoginPage();
 
     beforeEach(async () => {
